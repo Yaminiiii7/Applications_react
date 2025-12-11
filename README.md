@@ -10,8 +10,8 @@ modern build tool optimized for frontend development.
 ### 1. Clone the Repository
 
 ``` bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone [<your-repo-url>](https://github.com/Yaminiiii7/Applications_react.git)
+cd <folder>
 ```
 
 ### 2. Install Dependencies
