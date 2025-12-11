@@ -1,0 +1,41 @@
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card{
+  border: solid black 2px;
+  margin:0 auto;
+  cursor:pointer;
+  padding: 100px;
+  border-radius:8px;
+  width:50%;
+  align-content: center;
+
+}
+
+.card:hover{
+  cursor:pointer;
+  transform:scale(1.1);  
+}
+
+.card:active{
+  cursor:pointer;
+  transform:scale(0.95);
+}
+
+button{
+  border-radius: 3px;
+  color:rgb(143, 216, 250);
+  color:black;
+  padding:20px;
+  margin:30px;
+  margin-left:3px;
+  width:100px;
+
+}
+
+
+
